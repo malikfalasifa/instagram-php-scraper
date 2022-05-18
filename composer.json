@@ -19,7 +19,7 @@
     "ext-curl": "*",
     "ext-json": "*",
     "psr/simple-cache": "^2.0",
-    "psr/http-client": "^2.0",
+    "psr/http-client": "^1.0",
     "guzzlehttp/psr7": "^1.7"
   },
   "require-dev": {
